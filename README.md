@@ -1,2 +1,2 @@
 # Jezyki_Skryptowe
-Projekt napisny w Python, HTML, BAT.
+Projekt napisny w Python, HTML, BAT. Skrypt w Python dla danych wejściowych zapisanych w pliku tekstowym z informacją o odległości między poszczególnymi stacjami metra, zwraca informację w pliku tekstowym czy możliwe jest stworzenie lini metra dla podanych danych. Projekt obsługiwany jest za pomocą menu.bat, w którym uruchomimy program, stworzymy backup, stworzymy raport w postaci strony HTML.
